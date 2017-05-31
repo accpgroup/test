@@ -1,7 +1,7 @@
 package org.java.demo;
 
-public class Demo2 {
+public class Demo5 {
 	public static void main(String[] args) {
-		System.out.println("我修给改了");
+		System.out.println("小三爷创建");
 	}
 }
